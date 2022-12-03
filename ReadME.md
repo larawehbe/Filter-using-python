@@ -16,6 +16,8 @@ Next:
 This is the expected output
 `
 filter using lambda filter  took 1.5939585864543915e-06
+
 filter using for loop took 0.000283005996607244
+
 filter using  comprehension list 0.00021229800768196583 
 `
