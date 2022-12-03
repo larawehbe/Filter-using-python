@@ -1,5 +1,6 @@
 ## This is an experimental feature for testing the speed of filter lambda versus for loop filter
 
+![image-results](/results.png)
 
 The main purpose of this repository is to test the speed factor of using lambda filter or normal for loop
 
